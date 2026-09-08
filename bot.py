@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Userbot PACE888 - auto-join grup, send promo."""
-import asyncio, json, re, sys, random
+import asyncio, json, re, sys, random, os
 from datetime import datetime, date, time as dt_time
 from pathlib import Path
 from pyrogram import Client, filters
