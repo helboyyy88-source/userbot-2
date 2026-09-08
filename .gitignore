@@ -1,4 +1,11 @@
-__pycache__/
+.env
+session_string.txt
 *.session
 *.session-journal
+__pycache__/
 *.pyc
+
+.env
+session_string.txt
+*.session
+*.session-journal
