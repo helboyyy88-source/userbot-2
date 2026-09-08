@@ -9,3 +9,6 @@ __pycache__/
 session_string.txt
 *.session
 *.session-journal
+
+# Railway variable-name template only; contains no secrets.
+!/.env.example
